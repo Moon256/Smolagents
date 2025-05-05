@@ -1,0 +1,5 @@
+flask
+smolagents[transformers]
+transformers
+bs4
+requests
